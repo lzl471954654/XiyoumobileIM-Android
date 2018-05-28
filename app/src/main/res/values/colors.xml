@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="send_button_color">#4cacc4</color>
+    <color name="chat_room_bottom_background">#ffffff</color>
+    <color name="chat_list_background">#f1f2f4</color>
+    <color name="secondary_text">#616162</color>
+    <color name="primary_text">#000101</color>
+    <color name="me_message_color">#0187fa</color>
 </resources>
